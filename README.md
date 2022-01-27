@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋
+## I'm Maurice
 
-<!--
-**Maurice-Muthaka/Maurice-Muthaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I am a software engineer](https://media-exp1.licdn.com/dms/image/C5616AQGwS8Q6yIzhNA/profile-displaybackgroundimage-shrink_200_800/0/1606246445302?e=1648684800&v=beta&t=ClWQQfZpPUzRo3PH9inKUfi_mCUQmjEgAQswb5uG5kk)
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/Maurice-Muthaka)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a software engineer and I love solving problems
+
+Skills:  REACT / JS / HTML / CSS / TYPESCRIPT
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maurice-Muthaka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maurice-muthaka-b353b7125/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/maurice.muthaka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/maurice_m243//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maurice-Muthaka&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maurice-Muthaka)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Maurice-Muthaka)  
