@@ -12,13 +12,16 @@ I am a software engineer and I love solving problems
 ## Skills
 
 ### Frontend
-🖥 HTML / CSS / JS / REACT / TYPESCRIPT / NEXT JS / TAILWIND / BOOTSTRAP / WEB 3
+🖥 HTML / CSS / JS / REACT / TYPESCRIPT / NEXT JS / REDUX / TAILWIND / BOOTSTRAP / WEB 3
 
 ### Backend
 🖥 NODE JS / FIREBASE / PHP / LARAVEL / PYTON / FLASK / LUMEN / WORDPRESS
 
 ### Database
 MYSQL / MONGO DB / ORACLE
+
+### Others
+AWS, HEROKU, CPANEL
 
 ### Mobile
 📱 React Native
