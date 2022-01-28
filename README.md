@@ -1,13 +1,13 @@
 ### Hi 👋
 ## I'm Maurice
 
-![I am a software engineer](https://media-exp1.licdn.com/dms/image/C5616AQGwS8Q6yIzhNA/profile-displaybackgroundimage-shrink_200_800/0/1606246445302?e=1648684800&v=beta&t=ClWQQfZpPUzRo3PH9inKUfi_mCUQmjEgAQswb5uG5kk)
+![I am a software engineer](https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/200.webp?cid=ecf05e47rr8qdrexfpyg0sh6foglaima9wfdkzhaxturusi8&rid=200.webp&ct=g)
 
 ![Profile views](https://gpvc.arturio.dev/Maurice-Muthaka)  
 
 I am a software engineer and I love to solve problems
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maurice-Muthaka)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maurice-muthaka-b353b7125/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maurice.muthaka)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maurice_m243/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maurice-Muthaka)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maurice-muthaka-b353b7125/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maurice_m243/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/254721964297)  
 
 ## Skills
 
