@@ -5,7 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Maurice-Muthaka)  
 
-I am a software engineer and I love solving problems
+I am a software engineer and I love to solve problems
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maurice-Muthaka)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maurice-muthaka-b353b7125/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maurice.muthaka)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maurice_m243/)  
 
